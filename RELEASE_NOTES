@@ -1,6 +1,10 @@
 #
 # RELEASE_NOTES
 #
+R2.0.0	2025-08-22
+	Bump to module versions
+	Add an include file unistd.h to mmcaRecord.cc
+
 R1.0.7	2017-08-23 Scott A. Stubbs
 	Bumped to latest modules
 
