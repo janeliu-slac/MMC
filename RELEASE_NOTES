@@ -1,7 +1,7 @@
 #
 # RELEASE_NOTES
 #
-R2.0.0	2025-08-22
+R1.0.8	2025-08-22 Jane Liu
 	Bump to module versions
 	Add an include file unistd.h to mmcaRecord.cc
 
